@@ -6,11 +6,11 @@
 |---------------|-----------------------|-------------------------------------|
 | Vitamina D    | Diariamente           | ✅ Começou hoje                     |
 | Vitamina B12  | Conforme prescrição   | ✅ Primeira dose tomada hoje        |
-| Glifage       | À noite               | ⏳ Começa hoje à noite              |
+| Glifage       | À noite               | ✅ Primeira dose tomada à noite     |
 
 ## Lembretes
 
-- [ ] Tomar o **Glifage à noite** (de preferência junto ou logo após o jantar).
+- [x] Tomar o **Glifage à noite** (de preferência junto ou logo após o jantar). Primeira dose tomada em 31/10; continuar todas as noites.
 - [ ] Confirmar com o médico a frequência da **Vitamina B12** (diária, semanal ou mensal) e anotar a data da próxima dose.
 - [ ] Manter a **Vitamina D** na rotina diária.
 
@@ -19,4 +19,4 @@
 ### 31/10/2026
 - Comecei a Vitamina D.
 - Tomei a primeira dose da Vitamina B12.
-- Começarei o Glifage à noite.
+- Tomei a primeira dose do Glifage à noite. ✅
