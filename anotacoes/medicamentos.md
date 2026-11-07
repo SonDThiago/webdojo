@@ -19,7 +19,7 @@
 | Dose | Data | Status |
 |------|------|--------|
 | 1/12 | 31/10/2026 | ✅ Tomada |
-| 2/12 | 07/11/2026 | ⏳ Pendente |
+| 2/12 | 07/11/2026 | ✅ Tomada |
 | 3/12 | 14/11/2026 | ⏳ Pendente |
 | 4/12 | 21/11/2026 | ⏳ Pendente |
 | 5/12 | 28/11/2026 | ⏳ Pendente |
@@ -46,3 +46,6 @@
 - Tomei a primeira dose da Vitamina D (1 de 12).
 - Tomei a primeira dose da Vitamina B12 (1 de 4).
 - Tomei a primeira dose do Glifage à noite. ✅
+
+### 07/11/2026
+- Tomei a Vitamina D (dose 2 de 12). ✅
