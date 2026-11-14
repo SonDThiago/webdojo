@@ -49,9 +49,9 @@
 | Dose | Data       | Status        |
 |------|------------|---------------|
 | 1/4  | 31/10/2026 | ✅ Tomada     |
-| 2/4  | 15/11/2026 | ⏳ Pendente   |
-| 3/4  | 30/11/2026 | ⏳ Pendente   |
-| 4/4  | 15/12/2026 | ⏳ Pendente   |
+| 2/4  | 14/11/2026 | ✅ Tomada     |
+| 3/4  | 29/11/2026 | ⏳ Pendente   |
+| 4/4  | 14/12/2026 | ⏳ Pendente   |
 
 ## Diário
 
@@ -65,3 +65,6 @@
 
 ### 07/11/2026
 - Tomei a Vitamina D (dose 2 de 12). ✅
+
+### 14/11/2026
+- Tomei a Vitamina B12 (dose 2 de 4). ✅ Próximas doses recalculadas a partir de hoje.
