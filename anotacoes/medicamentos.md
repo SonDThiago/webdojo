@@ -12,7 +12,7 @@
 ## Lembretes
 
 - [x] Tomar o **Glifage à noite**, depois da janta. Primeira dose tomada em 31/10.
-- [ ] **Glifage, pela receita:** 1 comprimido por 14 dias (31/10 a 13/11), depois **2 comprimidos** até a médica mandar parar. Os 2 comprimidos começaram em 15/11.
+- [ ] **Glifage, pela receita:** 1 comprimido por 14 dias (31/10 a 13/11), depois **2 comprimidos** até a médica mandar parar. Os 2 comprimidos começaram em 14/11, certinho.
 - [x] Frequência da **Vitamina B12** confirmada pela receita: de 15 em 15 dias, 4 doses no total.
 - [ ] **Dupilumabe**: 1 dose por mês, todo dia 29.
 - [ ] **Vitamina D**: 1 dose por semana, sempre no sábado, 12 doses no total.
@@ -34,7 +34,7 @@
 |------|------|--------|
 | 1/12 | 31/10/2026 | ✅ Tomada |
 | 2/12 | 07/11/2026 | ✅ Tomada |
-| 3/12 | 15/11/2026 | ✅ Tomada (1 dia atrasada) |
+| 3/12 | 14/11/2026 | ✅ Tomada |
 | 4/12 | 21/11/2026 | ⏳ Pendente |
 | 5/12 | 28/11/2026 | ⏳ Pendente |
 | 6/12 | 05/12/2026 | ⏳ Pendente |
@@ -70,7 +70,5 @@
 ### 14/11/2026
 - Tomei a Vitamina B12 (dose 2 de 4). ✅ Próximas doses recalculadas a partir de hoje.
 
-### 15/11/2026
-- Glifage passa para 2 comprimidos à noite, depois da janta (a receita diz 1 comprimido por 14 dias, depois 2 até a médica mandar parar).
-- Tomei 2 comprimidos de Glifage depois da janta. ✅
-- Tomei a Vitamina D (dose 3 de 12), com 1 dia de atraso. ✅
+- Glifage passou para 2 comprimidos à noite, depois da janta (a receita diz 1 comprimido por 14 dias, depois 2 até a médica mandar parar). Tomei os 2. ✅
+- Tomei a Vitamina D (dose 3 de 12), no sábado certinho. ✅
