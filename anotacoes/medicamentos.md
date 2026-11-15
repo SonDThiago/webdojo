@@ -34,7 +34,7 @@
 |------|------|--------|
 | 1/12 | 31/10/2026 | ✅ Tomada |
 | 2/12 | 07/11/2026 | ✅ Tomada |
-| 3/12 | 14/11/2026 | ⏳ Pendente |
+| 3/12 | 15/11/2026 | ✅ Tomada (1 dia atrasada) |
 | 4/12 | 21/11/2026 | ⏳ Pendente |
 | 5/12 | 28/11/2026 | ⏳ Pendente |
 | 6/12 | 05/12/2026 | ⏳ Pendente |
@@ -72,3 +72,5 @@
 
 ### 15/11/2026
 - Glifage passa para 2 comprimidos à noite, depois da janta (a receita diz 1 comprimido por 14 dias, depois 2 até a médica mandar parar).
+- Tomei 2 comprimidos de Glifage depois da janta. ✅
+- Tomei a Vitamina D (dose 3 de 12), com 1 dia de atraso. ✅
