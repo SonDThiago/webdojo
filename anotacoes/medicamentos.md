@@ -7,6 +7,7 @@
 | Vitamina D    | 1 vez por semana (12 doses) | ✅ Dose 1 de 12 tomada hoje   |
 | Vitamina B12  | De 15 em 15 dias (4 doses) | ✅ Dose 1 de 4 tomada hoje     |
 | Dupilumabe    | 1 vez por mês (dia 29) | ✅ Dose 1 tomada em 29/10         |
+| Ferroporuna   | De 15 em 15 dias (4 doses) | ✅ Dose 1 de 4 tomada em 17/11 |
 | Glifage       | À noite: 1 comp. por 14 dias, depois 2 comp. | ✅ Primeira dose tomada à noite     |
 
 ## Lembretes
@@ -15,6 +16,7 @@
 - [ ] **Glifage, pela receita:** 1 comprimido por 14 dias (31/10 a 13/11), depois **2 comprimidos** até a médica mandar parar. Os 2 comprimidos começaram em 14/11, certinho.
 - [x] Frequência da **Vitamina B12** confirmada pela receita: de 15 em 15 dias, 4 doses no total.
 - [ ] **Dupilumabe**: 1 dose por mês, todo dia 29.
+- [ ] **Ferroporuna**: 4 doses, de 15 em 15 dias. A dose 2 ficou para 05/12 e as seguintes contam 15 dias a partir dela.
 - [ ] **Vitamina D**: 1 dose por semana, sempre no sábado, 12 doses no total.
 
 ## Calendário do Dupilumabe (1 vez por mês, todo dia 29)
@@ -27,6 +29,15 @@
 | 4 | 29/01/2027 | ⏳ Pendente |
 | 5 | 28/02/2027 | ⏳ Pendente (fevereiro não tem dia 29) |
 | 6 | 29/03/2027 | ⏳ Pendente |
+
+## Calendário da Ferroporuna (de 15 em 15 dias, 4 doses)
+
+| Dose | Data | Status |
+|------|------|--------|
+| 1/4 | 17/11/2026 | ✅ Tomada |
+| 2/4 | 05/12/2026 | ⏳ Pendente (data escolhida) |
+| 3/4 | 20/12/2026 | ⏳ Pendente |
+| 4/4 | 04/01/2027 | ⏳ Pendente |
 
 ## Calendário da Vitamina D (1 vez por semana, aos sábados)
 
@@ -72,3 +83,6 @@
 
 - Glifage passou para 2 comprimidos à noite, depois da janta (a receita diz 1 comprimido por 14 dias, depois 2 até a médica mandar parar). Tomei os 2. ✅
 - Tomei a Vitamina D (dose 3 de 12), no sábado certinho. ✅
+
+### 17/11/2026
+- Tomei a Ferroporuna (dose 1 de 4). ✅ Próxima dose marcada para 05/12.
