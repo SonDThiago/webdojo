@@ -16,7 +16,7 @@
 - [ ] **Glifage, pela receita:** 1 comprimido por 14 dias (31/10 a 13/11), depois **2 comprimidos** até a médica mandar parar. Os 2 comprimidos começaram em 14/11, certinho.
 - [x] Frequência da **Vitamina B12** confirmada pela receita: de 15 em 15 dias, 4 doses no total.
 - [ ] **Dupilumabe**: 1 dose por mês, todo dia 29.
-- [ ] **Ferroporuna**: 4 doses, de 15 em 15 dias. A dose 2 ficou para 05/12 e as seguintes contam 15 dias a partir dela.
+- [ ] **Ferroporuna**: 4 doses, de 15 em 15 dias. As doses são sempre no sábado, quando a clínica fica mais tranquila: 05/12, 19/12 e 02/01.
 - [ ] **Vitamina D**: 1 dose por semana, sempre no sábado, 12 doses no total.
 
 ## Calendário do Dupilumabe (1 vez por mês, todo dia 29)
@@ -35,9 +35,9 @@
 | Dose | Data | Status |
 |------|------|--------|
 | 1/4 | 17/11/2026 | ✅ Tomada |
-| 2/4 | 05/12/2026 | ⏳ Pendente (data escolhida) |
-| 3/4 | 20/12/2026 | ⏳ Pendente |
-| 4/4 | 04/01/2027 | ⏳ Pendente |
+| 2/4 | 05/12/2026 | ⏳ Pendente (sábado) |
+| 3/4 | 19/12/2026 | ⏳ Pendente (sábado) |
+| 4/4 | 02/01/2027 | ⏳ Pendente (sábado) |
 
 ## Calendário da Vitamina D (1 vez por semana, aos sábados)
 
